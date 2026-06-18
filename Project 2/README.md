@@ -109,9 +109,9 @@ For example:
 4. The database saves the record to disk.
 5. The backend returns the saved user with status `201`.
 
-## Beginner Topic Map
+## Concepts Covered
 
-Study these topics to understand this assignment deeply:
+This project covers:
 
 - Backend development: how servers receive requests and send responses.
 - HTTP: methods like `GET`, `POST`, `PATCH`, `DELETE` and status codes like `200`, `201`, `204`, `400`, `404`, `409`.
