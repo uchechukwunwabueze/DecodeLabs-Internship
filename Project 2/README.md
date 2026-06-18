@@ -135,3 +135,7 @@ This project covers:
 - Duplicate prevention: enforced by `UNIQUE` on `email`.
 - API verification: covered by `test_api.py`.
 - ORM idea: this version uses direct SQL so you can see what is happening. In a larger project, an ORM like Prisma, SQLAlchemy, or Django ORM can sit between the backend code and the database.
+
+## Screenshots
+
+Screenshots are included in the `screenshots` folder to show the server running, user creation, duplicate email prevention, and automated test results.
